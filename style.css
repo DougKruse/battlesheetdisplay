@@ -1,0 +1,112 @@
+
+.test {
+  background-color: #222255;
+}
+.selected{
+  text-shadow:1px 0px 0px black;
+}
+.row {
+  margin-left: 0;
+  margin-right: 0;
+}
+.nav-tabs > li .close {
+    margin: -2px 0 0 10px;
+    font-size: 18px;
+}
+.unitContainer {
+  width: 100%;
+}
+.hidden {
+  display:none;
+}
+.bottomInfo {
+  background-image: url("assets/paper_light.png");
+  border-top-style: solid;
+  border-width: 2px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+.nav-tabs>li>a{
+
+}
+.tab-content {
+  padding-top: 42px;
+}
+.wargear{
+  border-top-style: solid;
+  border-width: 2px;
+}
+.mainNav{
+  margin-left: 3px;
+  position: fixed;
+  top: 0;
+  z-index: 999;
+  background-color: white;
+}
+.unitContainer{
+  font-family: "Trebuchet MS", Trebuchet, serif;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+.unitHeader {
+  background-image: url("assets/paper_dark.png");
+  color: white;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-variant: small-caps;
+  font: impact;
+}
+.primaryStatTitle{
+  background-color: rgb(178,187,182);
+  font-weight: bold;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+.abilityName{
+  font-weight: bold;
+}
+.primaryStatValues{
+  font-weight: bold;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+.multiRuleBlock{
+  max-width: 350px;
+  min-width: 350px;
+  padding-right: 10px;
+  display: inline-block;
+  vertical-align: top;
+  padding-bottom: 10px;
+}
+.keywordText{
+  font-weight: bold;
+}
+.weaponStatsSelection{
+  padding-bottom: 1px;
+}
+.weaponStatsSelection .checkbox-inline{
+  padding-left: 25px;
+  margin-left: 0px;
+}
+.baseEquipment{
+  background-image: url("assets/paper_light.png");
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-left: 15px;
+  border-top-style: solid;
+  border-width: 3px;
+}
+.weaponStatsHeader{
+  background-color: rgb(178,187,182);
+  border-bottom-style: solid;
+  border-width: 2px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+.unitStatTitle{
+  font: 16px impact;
+}
+.stripe{
+  background-color: rgb(223,225,224);
+}
